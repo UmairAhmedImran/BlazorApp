@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6GFjOSHYIRql0DXHdu2Z26zMaAynMaxaLqyPVK0XIbjf5RvK8lGm7GA1HUWd3BYUNiRGKI/Ed1vhHgQqdy23sQ==",
+  "success": true,
+  "projectFilePath": "/home/umair/Desktop/BlazorApp/BlazorApp.csproj",
+  "expectedPackageFiles": [
+    "/home/umair/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.3/microsoft.aspnetcore.app.ref.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
