@@ -2,9 +2,9 @@
 
 ### Initializing the project
 ##
-<tab><tab> dotnet new blazor -o BlazorApp
+        dotnet new blazor -o BlazorApp
 
 ### Go to the directory
 ##
-<tab><tab> cd BlazorApp
+        cd BlazorApp
 
